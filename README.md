@@ -82,26 +82,26 @@ The profiles are very similar but can say that Morgan Stanley is the riskiest.
 
 ![](Images/Plot13.png)
 
- #### Creating a heatmap of the correlation between the stocks Close Price : 
+#### Creating a heatmap of the correlation between the stocks Close Price : 
  
- ![](Images/Plot14.png)
+![](Images/Plot14.png)
  
- ##### Creating a clustermap to cluster the correlations together : 
+##### Creating a clustermap to cluster the correlations together : 
  
- ![](Images/Plot15.png)
+![](Images/Plot15.png)
  
- #### Interactive heatmap of the correlation between the stocks Close Price : 
+#### Interactive heatmap of the correlation between the stocks Close Price : 
  
- ![](Images/Plot16.png)
+![](Images/Plot16.png)
  
- #### Creating a candle plot of Bank of America's stock from Jan 1st 2015 to Jan 1st 2016 : 
+#### Creating a candle plot of Bank of America's stock from Jan 1st 2015 to Jan 1st 2016 : 
  
- ![](Images/Plot17.png)
+![](Images/Plot17.png)
  
- #### Creating a Simple Moving Averages plot of Morgan Stanley for the year 2015 : 
+#### Creating a Simple Moving Averages plot of Morgan Stanley for the year 2015 : 
  
- ![](Images/Plot18.png)
+![](Images/Plot18.png)
  
- #### Creating a Bollinger Band Plot for Bank of America for the year 2015 : 
+#### Creating a Bollinger Band Plot for Bank of America for the year 2015 :
  
- ![](Images/Plot19.png)
+![](Images/Plot19.png)
