@@ -62,11 +62,11 @@ The riskiest over the period will be Citygroup bank becasue of the largest Stand
 
 The profiles are very similar but can say that Morgan Stanley is the riskiest.
 
-####  Creating a distplot of the 2015 returns for Morgan Stanley : 
+#### Creating a distplot of the 2015 returns for Morgan Stanley : 
 
 ![](Images/Plot9.png)
 
-####  Creating a distplot of the 2008 returns for CitiGroup :
+#### Creating a distplot of the 2008 returns for CitiGroup :
 
 ![](Images/Plot10.png)
 
