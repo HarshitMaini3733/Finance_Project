@@ -17,19 +17,19 @@ We will get stock information for the following banks:
 
 </ul>
 
-##### Head of the data :
+#### Head of the data :
 
 ![](Images/Plot1.png)
 
-##### What is the max Close price for each bank's stock throughout the time period?
+#### What is the max Close price for each bank's stock throughout the time period?
 
 ![](Images/Plot2.png)
 
-##### Creating a new empty DataFrame. This dataframe will contain the returns for each bank's stock.
+#### Creating a new empty DataFrame. This dataframe will contain the returns for each bank's stock.
 
 ![](Images/Plot3.png)
 
-##### Creating a pairplot of the returns dataframe.
+#### Creating a pairplot of the returns dataframe.
 
 ![](Images/Plot4.png)
 
